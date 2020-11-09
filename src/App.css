@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.App-link:hover {
+  color:gray;
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner img {
+  display: flex;
+}
